@@ -27,3 +27,7 @@ target
 .factorypath
 .project
 .settings
+
+#Intellij files
+.idea
+config.iml
